@@ -46,4 +46,4 @@ Synthara 3D Virtual Human Built on AI-AGENT.
 
 ## Links
 
-- [SyntharaLabs website](https://syntharalabs.io)
+- [SyntharaLabs website](https://www.syntharalabs.io)
