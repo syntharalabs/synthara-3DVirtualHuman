@@ -22,7 +22,7 @@ Synthara 3D Virtual Human Built on AI-AGENT.
 | 3d-virtual-human-001| 6667b584251d57e185b01928 | Female | [Link](./glb/6667b584251d57e185b01928.md) |
 | 3d-virtual-human-002| 6667c9505cedafe57860e902 | Female | [Link](./glb/6667c9505cedafe57860e902.md) |
 | 3d-virtual-human-003| 6667b8096a5ab2a3a43a316b | Cartoon| [Link](./glb/6667b8096a5ab2a3a43a316b.md) |
-| 3d-virtual-human-004| 6667b3bb623b1e22f6ae60ac |  |  |
+| 3d-virtual-human-004| 6667b3bb623b1e22f6ae60ac | Female | [Link](./glb/6667b3bb623b1e22f6ae60ac.md) |
 | 3d-virtual-human-005| 6667b906251d57e185b02c62 |  |  |
 | 3d-virtual-human-006| 6667bb5a10afcef8630cc42a |  |  |
 | 3d-virtual-human-007| 6667bd4882b2612a1fd593c3 |  |  |
